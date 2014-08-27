@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^autoconfig/mail/config-v1.1.xml$ ./config.php [L]
